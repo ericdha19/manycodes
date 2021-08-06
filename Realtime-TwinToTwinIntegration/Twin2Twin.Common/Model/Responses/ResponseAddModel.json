@@ -1,0 +1,11 @@
+[
+  {
+    "id": "dtmi:com:Twin2Twin:Elevator;1",
+    "description": {},
+    "displayName": {
+      "en": "Elevator Interface"
+    },
+    "decommissioned": false,
+    "uploadTime": "2020-09-04T19:58:34.9574347+00:00"
+  }
+]

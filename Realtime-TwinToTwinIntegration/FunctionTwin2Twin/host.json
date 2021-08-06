@@ -1,0 +1,23 @@
+{
+  "version": "2.0",
+  "logging": {
+    "applicationInsights": {
+      "samplingExcludedTypes": "Request",
+      "samplingSettings": {
+        "isEnabled": true
+      }
+    }
+  },
+  "tenantId": "92c7a047-11b2-4ede-bd53-d236ec68f6d5",
+  "clientId": "d4fc40b7-1ab1-47fb-a6a2-aeaadaf0c19e",
+  "SecretFromVault": "@Microsoft.KeyVault(SecretUri=https://vaultt2t.vault.azure.net/secrets/t2tsecret/9d3854207046416592b096fb2a3f9a24)",
+  "adtInstanceUrl": "https://ADTInstanceTwintoTwin.api.wus2.digitaltwins.azure.net",
+  "feed.uri": "https://devrealtimetwin.documents.azure.com/",
+  "feed.endpoint": "AccountEndpoint=https://devrealtimetwin.documents.azure.com:443/;AccountKey=WogVYkXq0jfYS47YNCgkqK5mYRdzIcVShkhg7ht4tbx7FSpB4uVnO1mOu5mI4A9Ki59rEHN2iWOLS7sznQXQDA==;",
+  "feed.authKey": "WogVYkXq0jfYS47YNCgkqK5mYRdzIcVShkhg7ht4tbx7FSpB4uVnO1mOu5mI4A9Ki59rEHN2iWOLS7sznQXQDA==",
+  "feed.database": "realtimetwin",
+  "feed.collection": "realtimetwinstate",
+  "feed.connectionEvent": "Endpoint=sb://t2tintegration.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=OP2FqHdxSZBlcQJjnDQ4NCkSfrP63tV2WWWYmLfMvHk=",
+  "feed.HubName": "integrationt2t",
+  "whitelist": "t2tintegration.redis.cache.windows.net:6380,password=M61Wxp2YRtMEomBuPhm3nfBjHq8KyWtjnzDiGttMkvQ=,ssl=True,abortConnect=False"
+}

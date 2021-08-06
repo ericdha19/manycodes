@@ -1,0 +1,55 @@
+{
+  "$dtId": "US-5956-ElevatorCar",
+  "$etag": "W/\"8474fec4-d087-4bb1-907e-825e0cae9ca6\"",
+  "EquipmentStatus": "1",
+  "CurrentFloor": "2",
+  "CurrentCall": "3",
+  "DoorMovements": "4",
+  "ErrorCodes": "5",
+  "OperationModes": "6",
+  "$metadata": {
+    "$model": "dtmi:com:Twin2Twin:Elevator;1",
+    "EquipmentStatus": {
+      "desiredValue": "1",
+      "desiredVersion": 1,
+      "ackVersion": 1,
+      "ackCode": 200,
+      "ackDescription": "Auto-Sync"
+    },
+    "CurrentFloor": {
+      "desiredValue": "2",
+      "desiredVersion": 1,
+      "ackVersion": 1,
+      "ackCode": 200,
+      "ackDescription": "Auto-Sync"
+    },
+    "CurrentCall": {
+      "desiredValue": "3",
+      "desiredVersion": 1,
+      "ackVersion": 1,
+      "ackCode": 200,
+      "ackDescription": "Auto-Sync"
+    },
+    "DoorMovements": {
+      "desiredValue": "4",
+      "desiredVersion": 1,
+      "ackVersion": 1,
+      "ackCode": 200,
+      "ackDescription": "Auto-Sync"
+    },
+    "ErrorCodes": {
+      "desiredValue": "5",
+      "desiredVersion": 1,
+      "ackVersion": 1,
+      "ackCode": 200,
+      "ackDescription": "Auto-Sync"
+    },
+    "OperationModes": {
+      "desiredValue": "6",
+      "desiredVersion": 1,
+      "ackVersion": 1,
+      "ackCode": 200,
+      "ackDescription": "Auto-Sync"
+    }
+  }
+}

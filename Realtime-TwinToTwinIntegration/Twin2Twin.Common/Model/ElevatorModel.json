@@ -1,0 +1,46 @@
+[
+  {
+    "@id": "dtmi:com:Twin2Twin:Elevator;1",
+    "@type": "Interface",
+    "displayName": "Elevator Interface",
+    "contents": [
+      {
+        "@type": "Property",
+        "name": "TwinId",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        "name": "EquipmentStatus",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        "name": "CurrentFloor",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        Respo
+        "name": "CurrentCall",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        "name": "DoorMovements",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        "name": "ErrorCodes",
+        "schema": "string"
+      },
+      {
+        "@type": "Property",
+        "name": "OperationModes",
+        "schema": "string"
+      }
+    ],
+    "@context": "dtmi:dtdl:context;2"
+  }
+]

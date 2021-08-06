@@ -1,0 +1,11 @@
+{
+  "$metadata": {
+    "$model": "dtmi:com:Twin2Twin:Elevator;1"
+  },
+  "EquipmentStatus": "1",
+  "CurrentFloor": "2",
+  "CurrentCall": "3",
+  "DoorMovements": "4",
+  "ErrorCodes": "5",
+  "OperationModes": "6"
+}

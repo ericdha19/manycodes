@@ -1,0 +1,9 @@
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\bin\Release\netcoreapp3.1\Twin2Twin.Common.deps.json
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\bin\Release\netcoreapp3.1\Twin2Twin.Common.dll
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\bin\Release\netcoreapp3.1\Twin2Twin.Common.pdb
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\obj\Release\netcoreapp3.1\Twin2Twin.Common.csprojAssemblyReference.cache
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\obj\Release\netcoreapp3.1\Twin2Twin.Common.AssemblyInfoInputs.cache
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\obj\Release\netcoreapp3.1\Twin2Twin.Common.AssemblyInfo.cs
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\obj\Release\netcoreapp3.1\Twin2Twin.Common.csproj.CoreCompileInputs.cache
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\obj\Release\netcoreapp3.1\Twin2Twin.Common.dll
+C:\Dev\TwinToTwinIntegration\Twin2TwinIntegration\Twin2Twin.Common\obj\Release\netcoreapp3.1\Twin2Twin.Common.pdb

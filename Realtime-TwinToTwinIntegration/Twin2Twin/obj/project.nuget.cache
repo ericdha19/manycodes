@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X2JkZjR04L3+ZDeSUJOodprLzgqYu+c0yhsKqFXWTZwX4OeHolF6vzV1Mp552U1d93HFh/JUdqS2FUoaItF0tA==",
+  "success": true,
+  "projectFilePath": "C:\\Dev\\TwinToTwinIntegration\\Twin2TwinIntegration\\Twin2Twin\\Twin2Twin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ericgf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ericgf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
